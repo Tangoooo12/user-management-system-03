@@ -2,18 +2,18 @@
   "database": {
     "host": "153.92.15.31",
     "port": 3306,
-    "user": "u875409848_tejares",
+    "user": "u875409848_go",
     "password": "9T2Z5$3UKkgSYzE",
-    "database": "u875409848_tejares"
+    "database": "u875409848_go"
   },
   "secret": "TcxtoIgRRbUqagW174x1zAA==",
-  "emailFrom": "adriannegaming12@gmail.com",
+  "emailFrom": "marcussssgo1@gmail.com",
   "smtpOptions": {
     "host": "smtp.ethereal.email",
     "port": 587,
     "auth": {
-      "user": "adriannegaming12@gmail.com",
-      "pass": "eczw pdhx ifyj akiv"
+      "user": "marcussssgo1@gmail.com",
+      "pass": "pceq iedq gbdd bllw"
     }
   }
 }
